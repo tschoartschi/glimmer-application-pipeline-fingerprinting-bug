@@ -4,12 +4,14 @@ When upgrading `@glimmer/application-pipeline` from `0.10.0` to `0.11.1` fingerp
 
 ## Reproduction
 
-Pre-steps: 
+### Pre-steps: 
 
 * `npm install -g ember-cli`
 * `ember new my-app -b @glimmer/blueprint`
 * `cd my-app/`
 * upgrade versions accodring to `package.json` from this repo
+
+### Reproduce
 
 * run `ember s`
 * check `dist` folder and see that `test.js` has no fingerprint
