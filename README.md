@@ -9,7 +9,7 @@ When upgrading `@glimmer/application-pipeline` from `0.10.0` to `0.11.1` fingerp
 * `npm install -g ember-cli`
 * `ember new my-app -b @glimmer/blueprint`
 * `cd my-app/`
-* upgrade versions accodring to `package.json` from this repo
+* upgrade versions according to `package.json` from this repo
 
 ### Reproduce
 
